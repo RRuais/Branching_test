@@ -1,0 +1,14 @@
+#main_container {
+    background-color: black;
+    color: white;
+    width: 1000px;
+    height: auto;
+}
+
+#main_container img {
+    display: block;
+    width: 275px;
+    height: 275px;
+    margin: 5px;
+    border: 2px solid grey;
+}
